@@ -28,3 +28,6 @@ npm i
 ```
 npm start
 ```
+
+- others
+Need a mongoDB
