@@ -5,7 +5,7 @@
 git clone https://github.com/SunilPark1129/tracker.git
 ```
 
-- install packages<br/>
+- install packages & run<br/>
 
 frontend
 ```
