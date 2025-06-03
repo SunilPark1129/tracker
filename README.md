@@ -30,4 +30,4 @@ npm start
 ```
 
 - others<br/>
-Need a mongoDB
+mongoDB required
