@@ -30,4 +30,4 @@ npm start
 ```
 
 - others<br/>
-mongoDB required
+mongoDB url: localhost:27017/todos
